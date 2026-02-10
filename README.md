@@ -32,5 +32,11 @@ An AI-powered **Text Summarizer** built using **Python** and **Streamlit** that 
 
 Clone the project:
 
-```bash
 git clone https://github.com/AakashSingh07/streamlit-run-app.py.git
+
+cd streamlit-run-app.py
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
