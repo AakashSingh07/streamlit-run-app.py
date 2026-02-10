@@ -2,7 +2,7 @@
 
 An AI-powered **Text Summarizer** built using **Python** and **Streamlit** that converts long text into short, meaningful summaries instantly using Natural Language Processing (NLP).
 
-🚀 **Live Demo:** https://your-streamlit-link.streamlit.app
+🚀 **Live Demo:** [https://your-streamlit-link.streamlit.app](https://app-run-apppy-d6kfv9ol5jrrvn3s4tfjme.streamlit.app/)
 
 ---
 
