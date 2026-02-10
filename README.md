@@ -33,4 +33,5 @@ An AI-powered **Text Summarizer** built using **Python** and **Streamlit** that 
 Clone the project:
 
 ```bash
-git clone https://github.com/your-username/ai-text-summarizer.git
+git clone https://github.com/your-username/ai-text-summarizer.git](https://app-run-apppy-d6kfv9ol5jrrvn3s4tfjme.streamlit.app
+)
