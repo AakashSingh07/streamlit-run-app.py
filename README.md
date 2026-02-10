@@ -1,32 +1,36 @@
 # ⚡ AI Text Summarizer
 
-An AI-powered Text Summarizer built using **Python** and **Streamlit** that converts long text into short, meaningful summaries instantly.
-
-## 🚀 Features
-- Fast text summarization
-- Simple UI
-- Built with NLP
-- Beginner-friendly project
-
-## 🛠️ Tech Used
-- Python
-- Streamlit
-- Sumy
-- NLTK
-
-## ▶️ Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+An AI-powered **Text Summarizer** built using **Python** and **Streamlit** that converts long text into short, meaningful summaries instantly using Natural Language Processing (NLP).
 
 🚀 **Live Demo:** https://your-streamlit-link.streamlit.app
+
+---
 
 ## 📸 App Preview
 ![App Screenshot](your-image-link)
 
-## 💡 What I Learned
-- NLP text summarization
-- Streamlit deployment
-- Git & GitHub workflow
-- Handling real-world errors
+---
+
+## 🚀 Features
+✅ Fast text summarization  
+✅ Clean and responsive UI  
+✅ Built using NLP techniques  
+✅ Deployed on Streamlit Cloud  
+✅ Real-world AI application  
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Streamlit  
+- Sumy (NLP Library)  
+- NLTK  
+
+---
+
+## ▶️ Run Locally
+
+Clone the project:
+
+```bash
+git clone https://github.com/your-username/ai-text-summarizer.git
