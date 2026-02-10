@@ -7,7 +7,7 @@ An AI-powered **Text Summarizer** built using **Python** and **Streamlit** that 
 ---
 
 ## 📸 App Preview
-![App Screenshot](your-image-link)
+![App Screenshot](app.png)
 
 ---
 
