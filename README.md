@@ -19,3 +19,14 @@ An AI-powered Text Summarizer built using **Python** and **Streamlit** that conv
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+🚀 **Live Demo:** https://your-streamlit-link.streamlit.app
+
+## 📸 App Preview
+![App Screenshot](your-image-link)
+
+## 💡 What I Learned
+- NLP text summarization
+- Streamlit deployment
+- Git & GitHub workflow
+- Handling real-world errors
