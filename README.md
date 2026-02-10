@@ -1,37 +1,46 @@
-# ⚡ AI Text Summarizer
-
-An AI-powered **Text Summarizer** built using **Python** and **Streamlit** that converts long text into short, meaningful summaries instantly using Natural Language Processing (NLP).
-
-🚀 **Live Demo:** https://your-streamlit-link.streamlit.app
 
 ---
 
-## 📸 App Preview
-![App Screenshot](your-image-link)
+## ⚠️ IMPORTANT — Change These 3 Things
+
+Replace:
+
+👉 `your-streamlit-link`  
+👉 `your-image-link`  
+👉 `your-username`
 
 ---
 
-## 🚀 Features
-✅ Fast text summarization  
-✅ Clean and responsive UI  
-✅ Built using NLP techniques  
-✅ Deployed on Streamlit Cloud  
-✅ Real-world AI application  
+## 🔥 One HIGHLY Recommended Upgrade (2 minutes)
+
+Rename repo:
+
+👉 **ai-text-summarizer**
+
+NOT:
+
+👉 streamlit-run-app.py ❌
+
+Looks MUCH more professional.
 
 ---
 
-## 🛠️ Tech Stack
-- Python  
-- Streamlit  
-- Sumy (NLP Library)  
-- NLTK  
+## ⭐ After This Your Project Becomes:
+
+👉 Resume-ready  
+👉 Recruiter-attracting  
+👉 Internship-level  
+👉 Strong MCA portfolio project  
 
 ---
 
-## ▶️ Run Locally
+If you want next-level advice, I can show you:
 
-Clone the project:
+✅ The **#1 AI project** that makes recruiters shortlist instantly  
+✅ How to build a **10/10 GitHub profile**  
+✅ What projects get MCA students hired  
+✅ How to stand out in placements  
 
-```bash
-git clone https://github.com/your-username/ai-text-summarizer.git](https://app-run-apppy-d6kfv9ol5jrrvn3s4tfjme.streamlit.app
-)
+Just say:
+
+> NEXT PROJECT 🚀
